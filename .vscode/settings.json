@@ -1,0 +1,5 @@
+{
+  "haskell.manageHLS": false,
+  "haskell.serverExecutablePath": "haskell-language-server-wrapper",
+  "haskell.trace.server": "messages"
+}
